@@ -5,5 +5,5 @@ Atiawda theme for Firefox
 ![Screenshot 1](screenshot/1.png)
 
 ## Upstream
-[a link](https://github.com/rafaelmardojai/firefox-gnome-theme)
+[firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
