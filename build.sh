@@ -18,7 +18,7 @@ function ifFail() {
 }
 
 function buildInit() {
-    declare -a arr=("build" "build/colors" "build/icons" "build/parts")
+    declare -a arr=("build")
 
     for i in "${arr[@]}"
     do
